@@ -20,18 +20,19 @@
 
 title: Derivative Games
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Experience gaming like never before and unleash your creativity with Derivative Games.
+description: >- # this means to ignore newlines until "baseurl:"  
   Being derivative has never been so innovative.
 baseurl: /DerivativeGames/
 url: https://academyofinteractiveentertainment.github.io
 twitter_username: AIEedu
 github_username: AcademyOfInteractiveEntertainment
+show_downloads: false
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
