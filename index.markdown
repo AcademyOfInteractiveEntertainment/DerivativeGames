@@ -4,3 +4,7 @@
 
 layout: default
 ---
+
+[About Us](about.markdown)
+
+[Policies and Procedures](policies.markdown)
