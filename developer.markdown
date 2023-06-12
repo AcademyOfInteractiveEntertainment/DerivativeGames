@@ -5,8 +5,8 @@
 layout: default
 ---
 
-[About Us](about.markdown)
+# Developer Guides
 
-[Policies and Procedures](policies.markdown)
+## Coding Standards
 
-[Developer Guides](developer.markdown)
+- [C# Coding Standard](CSharpStandard.markdown)

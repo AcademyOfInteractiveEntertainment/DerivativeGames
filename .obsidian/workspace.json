@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "b2d8e853684c0eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3017066570174f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bcfe7951a1e4fb3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WHS/Risk Management Policy and Procedure.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1be164db71b77ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e566a5a4c14ccd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc131de83799c8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "939769f01e8727ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad7be8a9a5883a3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5add164d9f92653d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19c0a74434998a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0dde5efd1a20dc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WHS/Risk Management Policy and Procedure.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c9f20fc239e940a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WHS/Risk Management Policy and Procedure.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d03472bb57224b40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "601d189ee4ba22e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WHS/Risk Management Policy and Procedure.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5bcfe7951a1e4fb3",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
